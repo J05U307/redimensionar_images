@@ -1,15 +1,15 @@
-# Image Processor Pro
+# 🖼️ Image Processor
 
 Aplicación de escritorio moderna desarrollada en Python para redimensionar y convertir imágenes de forma rápida y sencilla.
 
 ---
 
-## Características
+## ✨ Características
 
 - 📂 Carga de múltiples imágenes o carpetas completas
 - 📁 Selección automática de carpeta de salida (Descargas)
 - 📏 Redimensionamiento personalizado
-- ⚡ Tamaños rápidos (128x128, 512x512, 1024x1024, 1920x1080)
+- ⚡ Tamaños rápidos (128×128, 512×512, 1024×1024, 1920×1080)
 - 🔒 Mantener proporción de imagen
 - 📝 Renombrado automático opcional
 - 🖼️ Vista previa en tiempo real
@@ -23,7 +23,7 @@ Aplicación de escritorio moderna desarrollada en Python para redimensionar y co
 
 ---
 
-## Tecnologías
+## 🛠️ Tecnologías
 
 - Python 3
 - CustomTkinter (UI moderna)
@@ -31,26 +31,26 @@ Aplicación de escritorio moderna desarrollada en Python para redimensionar y co
 
 ---
 
-## Instalación
-
+## ⚙️ Instalación
 ```bash
 git clone https://github.com/J05U307/redimensionar_images.git
 cd redimensionar_images
-
 python3 -m venv venv
 source venv/bin/activate
-
 pip install -r requirements.txt
+```
 
+---
 
-## Ejecucion
-
+## ▶️ Ejecución
+```bash
 python main.py
+```
 
+---
 
-## Vista previa
+## 📸 Vista previa
 
 <p align="center">
   <img src="screenshots/app.png" width="700">
 </p>
-
